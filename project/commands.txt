@@ -1,0 +1,5 @@
+npm install
+
+npm init -y
+
+npm run dev
